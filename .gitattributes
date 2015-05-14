@@ -1,0 +1,4 @@
+frank/* filter=crypt diff=crypt
+test/* filter=crypt diff=crypt
+setup.py filter=crypt diff=crypt
+README.rst  filter=crypt diff=crypt
